@@ -14,3 +14,5 @@ Q: What time should we display adverstisement to maximize likelihood of customer
 Q: What products are most often sold together?
 
 Q: What product sold the most? Why do you think it sold the most?
+
+![Electronic Store Report](https://github.com/AdesanyaAzeez/Data-Visualizations/assets/95116501/71f21088-42f3-4874-8614-3f2431b0da5d)
