@@ -1,7 +1,7 @@
 # Electronic Store Sales Report
 A sales analysis on an electronic store data with the goal of providing insights to certain business questions.
 
-##Objective of the Analysis
+## Objective of the Analysis
 
 Q: What was the best Year for sales? How much was earned that Year?
 
