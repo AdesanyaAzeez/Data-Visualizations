@@ -15,7 +15,8 @@ Q: What products are most often sold together?
 
 Q: What product sold the most? Why do you think it sold the most?
 
-![Electronic Store Report](![Electronic Store Sales Dashboard](https://github.com/user-attachments/assets/2b8ad638-a413-455e-99d0-ac4cdd6b982d)
+
+![Electronic Store Sales Dashboard](https://github.com/user-attachments/assets/323334fc-1771-4e81-bd8e-8a5478ea4379)
 
 
 This project was inspired by the [Pomerol Patners](https://pomerolpartners.com/data-dna-dataset-challenge/) dataDNA December 2022 Challenge
