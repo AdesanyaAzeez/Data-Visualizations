@@ -8,3 +8,5 @@
 
 ### Data Model (Star Schema)
 <img width="800" alt="superstore data model" src="https://github.com/AdesanyaAzeez/Data-Visualizations/assets/95116501/ace330a6-3828-4a1b-90b0-a5e74be5ba4e">
+<img width="800" alt="superstore data model" src="https://raw.githubusercontent.com/AdesanyaAzeez/Data-Visualizations/assets/95116501/ace330a6-3828-4a1b-90b0-a5e74be5ba4e">
+
