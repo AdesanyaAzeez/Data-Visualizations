@@ -1,5 +1,7 @@
 # Electronic Store Sales Report
 A sales analysis on an electronic store data with the goal of providing insights to certain business questions.
+</br>[VIEW DASHBOARD](https://drive.google.com/file/d/1E0srMsx4zkkIA4uyqplZg2tuGKx3qSz4/view?usp=drive_link)
+
 
 ## Objective of the Analysis
 
