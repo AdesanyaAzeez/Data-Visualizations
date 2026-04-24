@@ -84,3 +84,9 @@ https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9g
 
 ## 📬 Feedback
 Suggestions, improvements, or collaborations are welcome — feel free to open an issue!
+
+---
+
+## 🤝 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/abdulazeezadesanya)  
+[Reach out on X](https://x.com/Adesanya_AZ) 
