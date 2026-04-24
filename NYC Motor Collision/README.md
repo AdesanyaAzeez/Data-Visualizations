@@ -26,6 +26,13 @@ The dataset contains detailed records of motor vehicle collisions, including:
 
 ---
 
+## 📷 Dashboard Preview
+<!-- Add screenshots here -->
+![/NYC Motor Collision/NYC_Collisions_Preview.jpeg](https://github.com/AdesanyaAzeez/Data-Visualizations/blob/c9fe31bf0a6aa050489e13424622b1064d93b274/NYC%20Motor%20Collision/NYC_Collisions_Preview.jpeg)
+
+
+---
+
 ## ⚙️ Data Modeling
 Data preparation and modeling steps include:
 - Cleaning missing and inconsistent location data  
@@ -62,18 +69,6 @@ Data preparation and modeling steps include:
 
 ---
 
-## 📷 Dashboard Preview
-<!-- Add screenshots here -->
-![Dashboard Screenshot](./assets/nyc-collisions-preview.png)
-
----
-
-## 🚀 How to Use
-1. Download the `.pbix` file from this repository  
-2. Open using **Power BI Desktop**  
-3. Use filters and slicers to explore different dimensions of the data  
-
----
 
 ## 📌 Notes
 - This project is intended for **analytical and exploratory purposes**  
