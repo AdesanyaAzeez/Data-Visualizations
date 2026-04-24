@@ -56,3 +56,9 @@ Data was transformed and modeled in Power BI:
 ## 📬 Feedback
 If you have suggestions or improvements, feel free to open an issue or contribute!
 
+
+---
+
+## 🤝 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/abdulazeezadesanya)  
+[Reach out on X](https://x.com/Adesanya_AZ) 
