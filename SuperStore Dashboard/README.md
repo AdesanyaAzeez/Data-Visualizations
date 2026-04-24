@@ -1,6 +1,3 @@
-### Data Model (Star Schema)
-<img width="800" alt="superstore data model" src="https://github.com/AdesanyaAzeez/Data-Visualizations/assets/95116501/ace330a6-3828-4a1b-90b0-a5e74be5ba4e">
-
 # 📊 Superstore Sales Dashboard (Power BI)
 
 ## 🧾 Overview
@@ -35,18 +32,16 @@ Data was transformed and modeled in Power BI:
 - Built calculated columns and measures using **DAX**
 - Implemented date hierarchies for time-based analysis
 
+
+### Data Model
+![SuperStore Dashboard/SuperStore Data Model.png](https://github.com/AdesanyaAzeez/Data-Visualizations/blob/f25dbe2756fc9e83645e11db4c98930d0aceb082/SuperStore%20Dashboard/SuperStore%20Data%20Model.png)
+
 ---
 
 ## 🛠️ Tools Used
 - **Power BI** (Data modeling & visualization)
 - **DAX** (Measures & calculations)
 - **Power Query** (Data transformation)
-
----
-
-## 📷 Dashboard Preview
-<!-- Add screenshots here -->
-![Dashboard Screenshot](./assets/dashboard-preview.png)
 
 ---
 
@@ -61,5 +56,3 @@ Data was transformed and modeled in Power BI:
 ## 📬 Feedback
 If you have suggestions or improvements, feel free to open an issue or contribute!
 
----
-⭐ *If you found this useful, consider giving the repo a star!*
