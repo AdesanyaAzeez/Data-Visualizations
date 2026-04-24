@@ -22,3 +22,9 @@ Q: What product sold the most? Why do you think it sold the most?
 
 
 This project was inspired by the [Pomerol Patners](https://pomerolpartners.com/data-dna-dataset-challenge/) dataDNA December 2022 Challenge
+
+
+
+## 🤝 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/abdulazeezadesanya)  
+[Reach out on X](https://x.com/Adesanya_AZ) 
